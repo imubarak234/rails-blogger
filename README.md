@@ -1,24 +1,63 @@
-# README
+# Rails Blogger
+Simple blogging web application. with view, comment and post features
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Built With
+- Ruby
+- ruby on rails
 
-* Ruby version
+### Technologies used
+- Github
+- Gitflow
+- Visual Studio Code
 
-* System dependencies
+To get a local copy up and running follow these simple example steps.
 
-* Configuration
+### Prerequisites
+- A text editor(preferably Visual Studio Code)
 
-* Database creation
+### Install
+- Ruby
+- Ruby on rails
+### Run Project Locally
 
-* Database initialization
+- Clone the project
 
-* How to run the test suite
+```bash 
+git clone git@https://github.com/imubarak234/rails-blogger.git
+cd rails-blogger
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+- To Start the programs
 
-* Deployment instructions
+```bash
+open terminal
+run rails s
+```
+Navigate to  http://localhost:3000/ on your browser 
+## Authors
 
-* ...
+👤 **Mubarak A Ibrahim**
+
+- Github: [@githubhandle](https://github.com/imubarak234)
+- Linkedin: [LinkedIn](https://www.linkedin.com/in/mubarak-ibrahim-mb/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/imubarak234/rails-blogger/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
